@@ -1,0 +1,79 @@
+﻿Welcome back once more everyone storm is doing this again.
+As usual most of these arent actual suggestions i dont have the playtime to be doing that.
+My design philosophy regarding this is that each department should have 3 jobs that work towards a central goal simply (I noticed that happening with a couple of departments, and i quite like that). Those of the department should have a similar theme in what they do, but that may become impossible depending on the jobs i am working with.
+Departments should be painful to go without but not game-ruiningly so. Everything should have something that allows you to play even with zero members in the department, assuming no sabotage of course.
+Each department should have a defining color to them, with red being ignored due to it being the color of the syndicate and many enemy factions.
+I enjoy each head having a different acronym and one word title to call them (ex: chief, coordinator, quartermaster, boss)
+I like giving each head a weak weapon because they need something to defend themselves against random bullshit and something to steal.
+
+
+Commons 
+Color: grey 
+Roles: many
+Changes: hop and janitor isnt in this one anymore simply because I don't think it fits common nonsense. Mentor as a new role with similar requirements but acts more as a teacher to newbies.
+
+
+service 
+Color: brown(*because of the bartender and because it can work with the others) with some white backdrop
+Roles: service worker(trainee), botanist, chef, bartender, service curator(head)
+Does: feeds and satisfies the station. Botany makes the stuff needed for chef and bartender to make good food and drinks for the poeple
+Changes: this is its own department now because they are way too attached to be one. Botany starts with random ass seeds in case it didnt before. There is a head with command access a room, a real ass dangerous scythe, and a container with a lot of spice seeds that can be auto ground into spice or used as spices.   There is a new system to guide it too.
+Satisfied system: well basic stuff like the mre and water will refill the hungry and thist, complex drinks and food will satisfy. The more complex the more satisfying. Satisfying food will refill the hungry/thist beyond its cap, allowing one to take longer before eating. Along with this, it will cause the person to gain 10 extra stamina for hunger and thist separately and 5 extra if both are fulfilled at the same time for a max stamina of 125 without extra bonuses. 
+Changes cont: people can also choose particular flavors to be their favorite, which will give more satisfaction based inversely on how many they choose to be their favorite. Bartender can make fully satisfying stuff easier then chef but of course it lasts for less time.
+
+
+Cargo
+Color: blues with white backing once in a blue moon
+Roles: cargo assistant(trainee), mail runner, cargo runner, salvager, quartermaster(head) 
+Changes: quatermasters knucledusters do a bit more damage and stun damage. 
+There is a publicly accessible room next to cargo which people can order from using their departments request computer to get basic materials. This has a limited but slowly regenerating supply. Going to it can get their orders out using a terminal in the room.
+There are 3 different ats stations: odds and ends(OaE) which sell gag items, alien artifacts,gold/silvar at high prices, armor, and the grand lottery along with being able to sell to. Uppers, which sells chems, gases, and materials. Finally, Volt, which sells electronics, tools, kits, and laser weapons.
+This is just to add a bit more to cargo than just going to the ats while not making the skill floor that much higher.
+Considering salvage seems to have weapons built into the role having all places they go to have their materials condensed to reduce time spent just mining but have enemies to fight to get to them sounds nice. It also gives more reason to go back to base and a higher skill ceiling. 
+Basic valuable materials are gotten by the small meteorites. Valuable materials and caches of basic materials from medium satellites. Valuable materials, silos of basic materials and endgame items from large derelict station sections. 
+
+
+Engineering 
+Color: yellow
+Roles: engineering assistant(trainee), engineer, janitor, atmospheric techian, engineering manager(head)
+Changes: the station comes with a basic ass generator that is sized to only provide just enough for the station, adding new stuff will invertible cause flickering. All the substations and the main generator have a big battery that can be powered with extra power, allowing for the station to continue running for maybe even the rest of the shift if fully powered by a strong enough generator. The same idea applies to atmospherics which have a basic setup that can be improved greatly.
+All departments have access to a device that can mark and save construction ghosts and anchored structures. It can then be used on a request computer they have access to which will them to request that engineering build, fix, or upgrade the given selection of items at the cost of the spaceo cost of the materials needed to do this. The device can also be given to engineering to make the request themselves without spending money. 
+Engineers can accept requests. When they do they will see what construction ghosts and upgrades they have to make on a list they can look at with a pad and visually with glasses.
+Engineering comes with a random set of requests already put in for each of the three roles. Engineers have the largest number of requests by far. Each role has a little meter they can find at a computer to show the number of completed requests from the random selection at the start and from the different departments.
+The engineering manager has a hand hammer that does a good bit of blunt and stamina.
+
+
+Science 
+Color: purple,pink, white backdrop
+Roles: scientist assistant(trainee), scientist, researcher(yes, I know these are very similar but the other option is calling scientist xenoarchologist and that makes it seem like you should pick researcher, so no), Robotaist, research director(head)
+Changes: Robotaist has their room attached to the front desk and also is expected to work the front desk.(This is primarily because they otherwise have almost no attachment to the rest of sci. Honestly seems more like an engineering job than science in vibes and gameplay as is so.) 
+Researcher is a new job based around a new anomaly system. Anomalies are now summoned directly at the generator. They have stability instead of health which goes up and now down much faster and the anomaly will randomly start growing or decaying. They will slight grow their anomalist effect over time if it doesn't have some natural method of disruption instead of pulsing(ex:spreading ice for growing effect. Or just being hot being a natural method). Growing decreases stability while decaying increases it. Losing all its stability or increasing it to 100% will cause it to become a core and pulse.  The point gained is not random and instead always starts at 10.
+A.P.Es have ‘stabilize’, ’destablize’, ’capture’, and ’eject’ instead of the 4 particle types. Stablize will fire a beam that does slow genetic damage and increases the stability. The opposite effect but same beam and damage is true for destablize. Capture will after holding the beam on it for a while put the anomaly inside of the A.P.E while eject will put the anomaly inside the A.P.E into the tile directly in front of the direction the A.P.E is pointing.
+Anomaly scanners will instead present the stability, severity and type of anomaly at the top. The bottom has the 4 particle type listed with one effect per each. A new section of science has 1-2 rooms for anomaly containment and a device per room that can be set to fire each of the 4 particles or to pulse. If set to pulse, it will set off a pulse in the anomaly if it hits. The type of pulse is one of the four effects listed in the scanner. Hitting the anomaly with a particle that matches the effect will cause the amount of points gained to increase for a while and change the effects. Hitting it with the wrong effect type will cause the severity to increase and make it pulse.
+(example of effects for ice an ice anomaly: 
+delta: cools down the surrounding gas
+Epsilon: spreads ice faster
+Zeta: freezes (damages and turns to ice wall) nearby structures faster
+Sigma: deals light cold damage to those nearby)
+( I dont like how disruptive anomalies are or how easily some can be ignored. Along with this i find that artifacts only really need 1 person for artifact which means of the 4 people who can become scientists only 2 get to really play the video game. 3 if the map for some reason only has 1 artifact. So i combined the two problems into 1 answer. 2 more things to do via working with anomalies to get points in science. 
+I made anomalies be similar to artifacts but instead of figuring out a trigger through the effect instead of just needing to execute triggers. Hope this would be fun)
+The director gets a gun that deals 10 genetic damage and has a moderate fire rate. 
+(ok on to the stuff i dont need to add any  real changes to)
+
+
+Medical 
+Color: green, white backing
+Roles: medical assistant (trainee), doctor, paramedic, chemist, medical overseer(head)(i couldn't figure out a better name).
+Changes: medical overseer has a laser gun dealing 10 cold damage with a moderate fire rate.(guns to the two department heads most likely to encounter things that need shooting)
+
+
+Security 
+Color: orange, black backing
+Roles: cadet(trainee), secuitry officer, warden, detective, chief of security(head) (because chief sounds very security esque)
+Changes: none, not enough info for me to make good changes to this even if i wanted to.
+
+
+Command 
+Color: black,white, gold backing.
+Roles: trainee(trainee) (only here because i refuse to change set up now), secretary (previously hop, but I dislike that name since it doesn't really explain what it does), inspector(previously IAA, but I dislike both the name and dislike the concept of a higher than captain command when that's not needed), public relations manager (their job is to ensure proper enforcement of space law, but not in the antagonist way of a lawyer. More ensuring people aren't being executed for the wrong crimes and such), captain(head)
+Changes: no more cc level folks cause i find it silly. Instead pr manager, inspector, and chief of security just have the vested power to arrest or old yeller the captain for committing space crimes.

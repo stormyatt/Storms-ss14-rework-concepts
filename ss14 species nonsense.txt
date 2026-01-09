@@ -1,0 +1,100 @@
+﻿Welcome all to storm redesigns all the species for no reason.
+This is not actually suggestions these would go against usual design of ss14
+All species should be treated as if they have no traits not listed here.
+All species will be treated as having one point to use on upsides before needing anything else because i find it hard to balance around having no upsides.
+( Balancing for no upsides very much makes anyone with no downside liable to become better than humans. Having something you'd notice and miss while playing humans just makes it easier to play them outside of roleplay.)
+Dietary restrictions are mostly uncovered but should be treated similarly
+This is not going over what their organs are like.
+(Low complexity)
+Human:
++heals stamina and health at 50% increased speed
+
+
+Drawf:
++increased health(+10)
+~increased resistance to drugs, which includes medications 
+
+
+Vulpkanin:(why the fuck do these guys have nothing)
++10% more speed
+~does slashing damage instead of blunt(assuming this is a tradeoff)
+
+
+Felines:
++can see slightly into the pitch dark
++can hear 50% further
+-has 10 less stamina
+
+
+Rodentia:
++can eat any item for nutrition
++gets hungry and thirsty 25% slower
+-10 stamina
+
+
+(Medium complexity)
+Reptile:(do not know what to do with the lizards)
++can interact with multiple things at the same time where before they would be stopped(not applicable to everything)
++ has a tail slot for items and pulling like hands.
+~deals slashing instead of blunt damage
+- gets thirsty and hungry 25% faster
+
+
+Harpies
+++15% increased movement speed
++can enter a state where move speed increases by 25% and controls more like zero-g but it uses both hands and drains stamina
+~does slashing instead of blunt
+-has 10 less health
+-breaths 200% quicker 
+
+
+Moth
++has control in zero g environments even without the station near
++moves faster in zero g environments
++freeze at lower temperatures 
+-takes 25% more heat damage
+-takes 100% damage from being on fire
+
+
+Slimes
+++has a 4 by 3 inventory space inside them
++ can hold items that normally need both hands in one hand.
+~breathes nitrogen 
+-takes notable heat damage from touching or having water spilled on them. Less from drinking it
+- 10% slower movement speed
+
+
+(High complexity)
+Arachnids
++can use hunger to produce silk which can be used to make structures or items or as substitutes for certain recipes 
++ can interact with stuff as if you had a wrenche, screwdriver, or crowbar even with full hands.
++builds and crafts items/structures at 150% speed
+-take 25% increased blunt damage
+-10 less health
+
+
+Vox (*may be op)
++deals 10% extra damage on melee attacks and 25% less deviation on ranged weapons/throwing
+++has 25 more health
++ has 10 more stamina 
+~breaths nitrogen
+-/-takes poison damage if breathing in oxygen 
+-gets hungry and thirsty 25% faster
+
+
+diona 
+++++can use a lot of food to summon a nymph, a pet which follows you around and can be commanded(*also a ghost role)(*has a cool down to stop spam)
+~affected by several drugs the same way plants are
+-/- moves 20% slower
+- interactions are 10% slower
+(commands are selecting one nymph then selecting an area to move to or an interaction which can be done with what the nymph has in hand. If not in range for the interaction they will try to move to be in range. If a moving target moves out of sight they will go to the last area seen and move around randomly before giving up on the command and returning to the diona. The diona can select a person for the nymph to attack and can select an item for the nymph to search the station for and bring back the the diona.)
+
+
+Thaven 
++ can breathe in any type of atmosphere
++ has much higher thresholds to become overheated or too cold
++ 25% resistance to genetic(and radioactive) damage
+~has a random mood a or two at the start of the shift they must follow
+-gets thirsty 50% faster
+-can be given more dangerous moods with the use of an emag or similar effects. Can be cleansed via a medical procedure
+(on thaven moods: I do not like how extreme they are, since why would someone who starts acting like that get into nt. so those are limited to being emagged or ion storms. Normal thaven moods would be like: manic, you are happy, nothing can get you down. Paranoid: something is out to get you, you know it. Protective: you want to protect those you care for fervently.)
