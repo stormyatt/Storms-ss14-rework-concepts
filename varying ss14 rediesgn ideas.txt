@@ -1,0 +1,60 @@
+﻿Yeah this is just random stuff this time
+
+
+slipped
+Getting slipped doesnt drop items.
+
+
+Evac and arrivals
+        Make evac and arrivals the same location, arrivals ships stopping when evac is coming.
+        (this is absolutely insane) Make everyone start on the evac ship at start of shift having the evac ship leave after 3 minutes.
+        Have the evac ship arrive on the station naturally at 1:30 with the ability to vote it to wait. If it cant due to antags, it will arrive as soon as that is not the case.
+
+
+Health and stamina 
+So for this, I am treating health and stamina on nearly equal terms. Priamrly because if stamina is weaker then health then making stuff deal more stamina damage is natural and from there adding anything like cuffs will make stamina weapons overpowered. Treating stamina as just as strong and balancing numbers around that avoids this.
+
+So, stamina isn't a specific damage but a second health bar. Going to 25% or lower will slow by around 10% and means you can be knocked over with melee attacks. 10% or lower stops you from being able to run slowling you down similar to going low on health. The slow down on low health is removed and instead causes stamina to slowly degrade. Stamina damage also regenerates faster than before.
+Having zero stamina will set stamina to negative -100, and for as long as it is negative, the person will stay unconscious. The person also rengenerates health faster will unconscious. When it hits 0 the person can wake up.
+All damage does stamina damage but in different ratios. The ratios are as listed the first number being health the second being stamina
+Blunt: 1:1 (preasure damage is counted as blunt)
+Slashing 3:2 (1.5:1)
+Piercing 2:1
+Asphyxiation 1:1
+Bloodloss 1:0
+Heat:10:1 
+Caustic: 10:1
+Cold: 1:1
+Shock:1:2
+Poison 3:2
+genetic/radiation (why arent these the same damage type?) 10:1
+Along with this is what i would call “sleep damage” effectively anything and everything that would put people to sleep. So stuff like nitrous oxide and hypopens would deal it. The ratio being 0:1, meaning they just do stamina damage. They could keep people asleep via dealing continuous stamina damage or stalling stamina regeneration.
+        Due to these changes, the disbaler, stun baton, flash, flashbang, captains disabler, and, unless I'm misremembering hops disabler should be changed.
+Stun baton: 5(5 stamina) blunt damage while off, 5 blunt and 5 shock(15 stamina total a 7 hit) while on.
+Disabler: 7 shock (14 stamina), higher fire rate.
+Captains/hop disabler: 15 shock (30 stamina), same fire rate
+Flash/flash grenade: just slows the one hit
+(if you wanted to could have weapons that inflicte shock damage also inflict some sort of stamina damage over time effect)
+Limb damage and stuff
+        New limb damage, injured at 45% max health damage to it, broken at 90%damage to max health. Broken parts 
+a list of effects 
+Body part| immediate injured effect | passive injured effect| immediate broken effect | passive broken effect
+head |Weaker flashbang effect |Slower stamina regeneration  |Item dropping trip. Moderate flashbang effect  | Stamina no longer regenerates. Stamina will slowly regress. Slight visual effect
+body |Small amount of blood loss  |Health rengerates slower  |Moderate amount of bloodloss  |Take slow constant blood loss
+arms |Drops or unweilds held item  |hand Does less damage with melee attacks. Has more aim deviation. Interacts 10% slower with items |Drops or unweilds held item.  |Hand cant hold items or interact with things using that hand
+legs |trips  |Moves 10% slower without a crutch  |trips  |Can't stand up without crutch or cane in a arm. Moves 10% slower. If both are broken cant stand up
+///
+Dealing enough damage to injure in stamnia to that limb does the injured immedate effect and resets stamina damage to that area.
+
+
+Artifact redesign for themes alone
+So when an artifact is scanned, it will give a type and a list of effects. If one gives the correct trigger and activates it the effect and allow one to collect points. Certain effects will expand the list of effects and allow for more points. Certain effects must have other effects done to activate 
+        Artifacts will generally try to keep to an set of effects and triggers based on the type. Some examples of types are gun, melee weapon, tool, generator, conditioner, converter, summoner, ???.
+        (here is a random example of a converter type)
+Type: structure converter 
+Effects-> trigger: heats up nearby gas->insert flash/stungrenade/flashlight, opens(neads heats up nearby gas)-> anchor, cools down nearby gas-> insert battery. 
+Effects from opens: convert item to tritium-> insert plasma, convert item to plastic-> insert steel, convert item to plasma-> insert gold, make noise intermittently -> insert item that doesnt make an effect, opens panel-> crowbar
+Effects from heats up nearby gas: minor explosion-> physical damage, minor explosion-> very high temperature gas, draws power -> connect wires.
+Effects from open panel: eject contents -> pulse, shifts artifact -> turn nob, explosion-> press button(requires make noise intermittently),
+Effects from turn nob: convert all items to air-> screwdriver. Dismantle item-> link two items, dismantle inserted-> insert biological thing.
+         Stuff like wizard rods and heretic blades count as artifacts with limited effect and trigger lists.
